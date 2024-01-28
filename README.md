@@ -1,6 +1,6 @@
 # Hi there, I'm Kritiraj Maharana 👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kritirajmaharana&show_icons=true&theme=radical" />
+<img align="left" width="47%" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=kritirajmaharana&show_icons=true&theme=radical" />
 
 <img align="left" style="height:180px" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritirajmaharana&layout=compact" />
 <img align="left" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kritirajmaharana&theme=github-compact)](https://github.com/kritirajmaharana/github-readme-activity-graph)" />
