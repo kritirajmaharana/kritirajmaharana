@@ -2,7 +2,7 @@
 
 <img align="left" width="47%" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=kritirajmaharana&show_icons=true&theme=radical&height=180px&width=50%" />
 
-<img align="left" height="180px" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritirajmaharana&layout=compact" />
+<img align="right" height="180px" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritirajmaharana&layout=compact" />
 <img align="left"  width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kritirajmaharana&theme=react-dark&color=#0000&radius=5)](https://github.com/kritirajmaharana/github-readme-activity-graph)" />
 <img  align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 
