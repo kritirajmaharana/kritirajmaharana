@@ -3,7 +3,7 @@
 <img align="left" width="47%" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=kritirajmaharana&show_icons=true&theme=radical" />
 
 <img align="left" style="height:180px; margin:10px;" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritirajmaharana&layout=compact" />
-<img align="left" style="margin:10px; border-radius:25px;" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kritirajmaharana&theme=github-compact)](https://github.com/kritirajmaharana/github-readme-activity-graph)" />
+<img align="left" style="margin:10px; background-color:blue; border-radius:25px;" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kritirajmaharana&theme=github-compact)](https://github.com/kritirajmaharana/github-readme-activity-graph)" />
 <img  align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 
 <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
