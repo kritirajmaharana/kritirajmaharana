@@ -1,4 +1,9 @@
-# Hi there, I'm Kritiraj Maharana 👋
+#🚀 Passionate Full Stack Web Developer 🌐 | MCA Graduate 🎓 | Python & Javascript Enthusiast 💻 | Open to Exciting Opportunities ✨
+
+##Hello there! 👋 I'm Kritiraj Maharana,
+###  A highly motivated Full Stack Web Developer with a keen interest in creating innovative and user-centric digital experiences. My journey into the world of technology began at Berhampur University, where I pursued my Master's in Computer Application, honing my skills and knowledge in the dynamic field of web development.
+
+
 
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=kritirajmaharana&show_icons=true&theme=radical&height=180px&width=50%" />
 
